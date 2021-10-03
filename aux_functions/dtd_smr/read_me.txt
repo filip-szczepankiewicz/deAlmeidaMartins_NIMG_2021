@@ -1,0 +1,1 @@
+MATLAB functions for fitting the SMR model using a NLLS solver. This folder can be moved to the 'methods' folder of the multidimensional dMRI toolbox (https://github.com/markus-nilsson/md-dmri). Doing so, provides access to custom-built MATLAB functions that facilitate fitting the SMR model to an in vivo dataset.
